@@ -171,6 +171,7 @@ import (
 	_ "github.com/influxdata/telegraf/plugins/inputs/riemann_listener"
 	_ "github.com/influxdata/telegraf/plugins/inputs/salesforce"
 	_ "github.com/influxdata/telegraf/plugins/inputs/sensors"
+	_ "github.com/influxdata/telegraf/plugins/inputs/serial"
 	_ "github.com/influxdata/telegraf/plugins/inputs/sflow"
 	_ "github.com/influxdata/telegraf/plugins/inputs/smart"
 	_ "github.com/influxdata/telegraf/plugins/inputs/snmp"
